@@ -1,8 +1,8 @@
 # 每日共享 Apple ID · Shared Apple ID(每天 0:00 自动更新)
 
-![更新日期](https://img.shields.io/badge/更新-2026-07-15-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-4%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-494%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcha.com-00e676)](https://www.jichangcha.com/share-id/)
+![更新日期](https://img.shields.io/badge/更新-2026-07-15-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-1%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-494%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcha.com-00e676)](https://www.jichangcha.com/share-id/)
 
-> 🍎 **2026-07-15 已更新 · 今日 4 个共享账号 · 已稳定运行 494 天**
+> 🍎 **2026-07-15 已更新 · 今日 1 个共享账号 · 已稳定运行 494 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
 
 ---
@@ -17,7 +17,7 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
+| 美国区 🇺🇸 | `exa••••••••@icloud.com` | `••••••••` | 待更新 |
 
 > 🔑 **完整账号密码在主站获取**(本仓库仅作防丢备用入口,不公开明文账号,避免被爬虫滥用、加速封号):
 > 👉 **[https://www.jichangcha.com/share-id/](https://www.jichangcha.com/share-id/)** —— 打开页面即可复制当日可用账号密码。
@@ -36,9 +36,7 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
-| 香港区 🇭🇰 | `jcc••••••••@icloud.com` | `••••••••` | 偶尔繁忙 |
-| 日本区 🇯🇵 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
+| —— | 更多账号见主站 | —— | —— |
 
 ## 💡 下载好客户端,还差一个稳定机场
 
