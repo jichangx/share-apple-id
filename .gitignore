@@ -1,0 +1,3 @@
+# 明文账号源,禁止进入公开仓库(仅本地 / CI 私密注入)
+accounts.json
+node_modules/
