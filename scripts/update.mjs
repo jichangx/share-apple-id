@@ -48,10 +48,11 @@ const poolRows = (data.pool ?? [])
 
 const readme = `# 每日共享 Apple ID · Shared Apple ID(每天 0:00 自动更新)
 
-![更新日期](https://img.shields.io/badge/更新-${dateStr}-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-${enc(`${total} 个`)}-f59e0b) ![稳定运行](https://img.shields.io/badge/${enc('已稳定运行')}-${days}%20${enc('天')}-fbbf24) [![主站](https://img.shields.io/badge/${enc('完整账号')}-jichangcha.com-00e676)](${SHARE_PAGE})
+![更新日期](https://img.shields.io/badge/更新-${dateStr}-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-${enc(`${total} 个`)}-f59e0b) ![稳定运行](https://img.shields.io/badge/${enc('已稳定运行')}-${days}%20${enc('天')}-fbbf24) [![主站](https://img.shields.io/badge/${enc('完整账号')}-jichangcha.com-00e676)](${SHARE_PAGE}) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 > 🍎 **${dateStr} 已更新 · 今日 ${total} 个共享账号 · 已稳定运行 ${days} 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
+> 📣 账号池更新提醒,TG 频道每早 8 点自动推送:**[@jichangcha](https://t.me/jichangcha)**
 
 ---
 
