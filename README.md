@@ -1,8 +1,8 @@
 # 每日共享 Apple ID · 免费外区(美区)苹果 ID(每天 0:00 自动更新)｜机场中文网
 
-![更新日期](https://img.shields.io/badge/更新-2026-09-16-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-4%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-557%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcnweb.com-00e676)](https://jichangcnweb.com/apple-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-2026-09-16-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-1%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-557%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcnweb.com-00e676)](https://jichangcnweb.com/apple-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
-> 🍎 **2026-09-16 已更新 · 今日 4 个共享账号 · 已稳定运行 557 天**
+> 🍎 **2026-09-16 已更新 · 今日 1 个共享账号 · 已稳定运行 557 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
 > 📣 账号池更新提醒,TG 频道每早 8 点自动推送:**[@jichangcha](https://t.me/jichangcha)**
 
@@ -18,7 +18,7 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
+| 美国区 🇺🇸 | `exa••••••••@icloud.com` | `••••••••` | 待更新 |
 
 > 🔑 **完整账号密码在主站获取**(本仓库仅作防丢备用入口,不公开明文账号,避免被爬虫滥用、加速封号):
 > 👉 **[https://jichangcnweb.com/apple-id/](https://jichangcnweb.com/apple-id/)** —— 打开页面即可复制当日可用账号密码。
@@ -37,9 +37,7 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
-| 香港区 🇭🇰 | `jcc••••••••@icloud.com` | `••••••••` | 偶尔繁忙 |
-| 日本区 🇯🇵 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
+| —— | 更多账号见主站 | —— | —— |
 
 ## 💡 下载好客户端,还差一个稳定机场
 
@@ -62,6 +60,7 @@
 - 📱 [每日共享 Apple ID(完整账号)](https://jichangcnweb.com/apple-id/)
 - 🆓 [每日免费节点](https://jichangcnweb.com/free-nodes/) —— 每天自动更新的免费订阅
 - 🏆 [2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) —— 老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格、优惠码与站长实测记录,每日同步
+- 🗂️ [四站精品聚合](https://github.com/jichangx) —— 机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普一页看全
 - 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明
