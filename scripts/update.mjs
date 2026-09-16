@@ -12,14 +12,34 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SITE = 'https://jichangcnweb.com';
 const SHARE_PAGE = `${SITE}/apple-id/`;
 
-// 读取数据:优先环境变量(CI 私密注入),否则本地 accounts.json,再否则内置占位
-function loadData() {
+const BOT_DATA = 'https://www.jichangcha.com/api/bot-data.json';
+
+// 读取数据:优先环境变量(CI 私密注入),其次主站公开端点的打码账号池,再次本地 accounts.json,最后内置占位
+async function loadData() {
   if (process.env.ACCOUNTS_JSON) {
     try {
       return JSON.parse(process.env.ACCOUNTS_JSON);
     } catch {
       console.warn('ACCOUNTS_JSON 解析失败,回退本地文件');
     }
+  }
+  try {
+    const res = await fetch(BOT_DATA, { headers: { 'user-agent': 'jichangx-share-apple-id' }, signal: AbortSignal.timeout(20000) });
+    if (res.ok) {
+      const j = await res.json();
+      const pool = j?.shareId?.pool;
+      if (Array.isArray(pool) && pool.length > 0) {
+        const [first, ...rest] = pool;
+        return {
+          startDate: j.shareId.startDate || '2025-03-08',
+          total: j.shareId.total || pool.length,
+          today: { region: '美区 🇺🇸', account: first.accountMasked, password: '••••••', status: first.status || '可用' },
+          pool: rest.map((p) => ({ region: '美区 🇺🇸', account: p.accountMasked, password: '••••••', status: p.status || '可用' })),
+        };
+      }
+    }
+  } catch (e) {
+    console.warn('主站端点读取失败,回退本地文件:', e.message);
   }
   const f = join(ROOT, 'accounts.json');
   if (existsSync(f)) return JSON.parse(readFileSync(f, 'utf8'));
@@ -31,14 +51,14 @@ function loadData() {
 }
 
 // 打码:账号保留前 3 位 + 邮箱后缀;密码全部隐藏
-const maskAccount = (s) => s.replace(/^(.{3}).*(@.+)$/, (_m, a, b) => `${a}••••••••${b}`);
+const maskAccount = (s) => (s.includes('•') ? s : s.replace(/^(.{3}).*(@.+)$/, (_m, a, b) => `${a}••••••••${b}`));
 const MASK_PW = '••••••••';
 
-const data = loadData();
+const data = await loadData();
 const now = new Date();
 const days = Math.max(1, Math.floor((now - new Date(data.startDate)) / 86400000));
 const dateStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
-const total = 1 + (data.pool?.length ?? 0);
+const total = data.total ?? 1 + (data.pool?.length ?? 0);
 
 const enc = (s) => encodeURIComponent(s);
 
