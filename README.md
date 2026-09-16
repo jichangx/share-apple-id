@@ -1,6 +1,6 @@
-# 每日共享 Apple ID · Shared Apple ID(每天 0:00 自动更新)
+# 每日共享 Apple ID · 免费外区(美区)苹果 ID(每天 0:00 自动更新)｜机场中文网
 
-![更新日期](https://img.shields.io/badge/更新-2026-09-16-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-4%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-557%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcha.com-00e676)](https://www.jichangcha.com/share-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-2026-09-16-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-4%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-557%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcnweb.com-00e676)](https://jichangcnweb.com/apple-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 > 🍎 **2026-09-16 已更新 · 今日 4 个共享账号 · 已稳定运行 557 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
@@ -21,7 +21,7 @@
 | 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
 
 > 🔑 **完整账号密码在主站获取**(本仓库仅作防丢备用入口,不公开明文账号,避免被爬虫滥用、加速封号):
-> 👉 **[https://www.jichangcha.com/share-id/](https://www.jichangcha.com/share-id/)** —— 打开页面即可复制当日可用账号密码。
+> 👉 **[https://jichangcnweb.com/apple-id/](https://jichangcnweb.com/apple-id/)** —— 打开页面即可复制当日可用账号密码。
 
 ## 🚀 三步使用
 
@@ -29,7 +29,7 @@
 2. **下载软件**:搜索并下载小火箭 Shadowrocket / Quantumult X 等客户端,提示要验证码就换个账号
 3. **退出账号**:下载完立即退回自己的 Apple ID,已装好的 App 照常打开使用
 
-图文教程:[小火箭配置](https://www.jichangcha.com/blog/shadowrocket-jichang-tuijian/) · [每日免费节点](https://www.jichangcha.com/free-node/)
+图文教程:[小火箭配置](https://jichangcnweb.com/tutorials/shadowrocket-ios/) · [美区 Apple ID 怎么注册](https://jichangcnweb.com/tutorials/us-apple-id-register/) · [每日免费节点](https://jichangcnweb.com/free-nodes/)
 
 ## 📦 备用账号池
 
@@ -52,15 +52,15 @@
 | 流媒体/AI | 基本不解锁 | Netflix / ChatGPT 全解锁 |
 | 价格 | 免费 | 8 元/月起(码 nmw888) |
 
-👉 **[前往星岛梦官网(优惠码 nmw888)](https://www.jichangcha.com/go/xingdaomeng/)** | [看完整测评](https://www.jichangcha.com/brands/xingdaomeng/)
+👉 **[前往星岛梦官网(优惠码 nmw888)](https://jichangcnweb.com/go/xingdaomeng/)** | [看完整测评](https://jichangcnweb.com/reviews/xingdaomeng/)
 
 更多选择看 **[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian)**:老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格与优惠码每日同步。
 
 ## 🔗 更多内容
 
-- 🏠 [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
-- 📱 [每日共享 Apple ID(完整账号)](https://www.jichangcha.com/share-id/)
-- 🆓 [每日免费节点](https://www.jichangcha.com/free-node/) —— 每天自动更新的免费订阅
+- 🏠 [机场中文网](https://jichangcnweb.com/) —— 机场评测、优惠码、客户端教程与避坑指南
+- 📱 [每日共享 Apple ID(完整账号)](https://jichangcnweb.com/apple-id/)
+- 🆓 [每日免费节点](https://jichangcnweb.com/free-nodes/) —— 每天自动更新的免费订阅
 - 🏆 [2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) —— 老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格、优惠码与站长实测记录,每日同步
 - 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 

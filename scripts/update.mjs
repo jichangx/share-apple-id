@@ -9,8 +9,8 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const SITE = 'https://www.jichangcha.com';
-const SHARE_PAGE = `${SITE}/share-id/`;
+const SITE = 'https://jichangcnweb.com';
+const SHARE_PAGE = `${SITE}/apple-id/`;
 
 // 读取数据:优先环境变量(CI 私密注入),否则本地 accounts.json,再否则内置占位
 function loadData() {
@@ -46,9 +46,9 @@ const poolRows = (data.pool ?? [])
   .map((s) => `| ${s.region} | \`${maskAccount(s.account)}\` | \`${MASK_PW}\` | ${s.status} |`)
   .join('\n');
 
-const readme = `# 每日共享 Apple ID · Shared Apple ID(每天 0:00 自动更新)
+const readme = `# 每日共享 Apple ID · 免费外区(美区)苹果 ID(每天 0:00 自动更新)｜机场中文网
 
-![更新日期](https://img.shields.io/badge/更新-${dateStr}-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-${enc(`${total} 个`)}-f59e0b) ![稳定运行](https://img.shields.io/badge/${enc('已稳定运行')}-${days}%20${enc('天')}-fbbf24) [![主站](https://img.shields.io/badge/${enc('完整账号')}-jichangcha.com-00e676)](${SHARE_PAGE}) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-${dateStr}-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-${enc(`${total} 个`)}-f59e0b) ![稳定运行](https://img.shields.io/badge/${enc('已稳定运行')}-${days}%20${enc('天')}-fbbf24) [![主站](https://img.shields.io/badge/${enc('完整账号')}-jichangcnweb.com-00e676)](${SHARE_PAGE}) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 > 🍎 **${dateStr} 已更新 · 今日 ${total} 个共享账号 · 已稳定运行 ${days} 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
@@ -77,7 +77,7 @@ const readme = `# 每日共享 Apple ID · Shared Apple ID(每天 0:00 自动更
 2. **下载软件**:搜索并下载小火箭 Shadowrocket / Quantumult X 等客户端,提示要验证码就换个账号
 3. **退出账号**:下载完立即退回自己的 Apple ID,已装好的 App 照常打开使用
 
-图文教程:[小火箭配置](${SITE}/blog/shadowrocket-jichang-tuijian/) · [每日免费节点](${SITE}/free-node/)
+图文教程:[小火箭配置](${SITE}/tutorials/shadowrocket-ios/) · [美区 Apple ID 怎么注册](${SITE}/tutorials/us-apple-id-register/) · [每日免费节点](${SITE}/free-nodes/)
 
 ## 📦 备用账号池
 
@@ -98,15 +98,15 @@ ${poolRows || '| —— | 更多账号见主站 | —— | —— |'}
 | 流媒体/AI | 基本不解锁 | Netflix / ChatGPT 全解锁 |
 | 价格 | 免费 | 8 元/月起(码 nmw888) |
 
-👉 **[前往星岛梦官网(优惠码 nmw888)](${SITE}/go/xingdaomeng/)** | [看完整测评](${SITE}/brands/xingdaomeng/)
+👉 **[前往星岛梦官网(优惠码 nmw888)](${SITE}/go/xingdaomeng/)** | [看完整测评](${SITE}/reviews/xingdaomeng/)
 
 更多选择看 **[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian)**:老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格与优惠码每日同步。
 
 ## 🔗 更多内容
 
-- 🏠 [机场查主站](${SITE}/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
+- 🏠 [机场中文网](${SITE}/) —— 机场评测、优惠码、客户端教程与避坑指南
 - 📱 [每日共享 Apple ID(完整账号)](${SHARE_PAGE})
-- 🆓 [每日免费节点](${SITE}/free-node/) —— 每天自动更新的免费订阅
+- 🆓 [每日免费节点](${SITE}/free-nodes/) —— 每天自动更新的免费订阅
 - 🏆 [2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) —— 老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格、优惠码与站长实测记录,每日同步
 - 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
