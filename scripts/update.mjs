@@ -100,12 +100,14 @@ ${poolRows || '| —— | 更多账号见主站 | —— | —— |'}
 
 👉 **[前往星岛梦官网(优惠码 nmw888)](${SITE}/go/xingdaomeng/)** | [看完整测评](${SITE}/brands/xingdaomeng/)
 
+更多选择看 **[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian)**:老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格与优惠码每日同步。
+
 ## 🔗 更多内容
 
 - 🏠 [机场查主站](${SITE}/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
 - 📱 [每日共享 Apple ID(完整账号)](${SHARE_PAGE})
 - 🆓 [每日免费节点](${SITE}/free-node/) —— 每天自动更新的免费订阅
-- 🏆 [2026 机场推荐排行榜](https://github.com/jichangx/2026-jichangcha-tuijian) —— 全部机场总榜
+- 🏆 [2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) —— 老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格、优惠码与站长实测记录,每日同步
 - 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明

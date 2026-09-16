@@ -1,8 +1,8 @@
 # 每日共享 Apple ID · Shared Apple ID(每天 0:00 自动更新)
 
-![更新日期](https://img.shields.io/badge/更新-2026-09-15-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-1%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-556%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcha.com-00e676)](https://www.jichangcha.com/share-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-2026-09-16-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-4%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-557%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcha.com-00e676)](https://www.jichangcha.com/share-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
-> 🍎 **2026-09-15 已更新 · 今日 1 个共享账号 · 已稳定运行 556 天**
+> 🍎 **2026-09-16 已更新 · 今日 4 个共享账号 · 已稳定运行 557 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
 > 📣 账号池更新提醒,TG 频道每早 8 点自动推送:**[@jichangcha](https://t.me/jichangcha)**
 
@@ -18,7 +18,7 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| 美国区 🇺🇸 | `exa••••••••@icloud.com` | `••••••••` | 待更新 |
+| 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
 
 > 🔑 **完整账号密码在主站获取**(本仓库仅作防丢备用入口,不公开明文账号,避免被爬虫滥用、加速封号):
 > 👉 **[https://www.jichangcha.com/share-id/](https://www.jichangcha.com/share-id/)** —— 打开页面即可复制当日可用账号密码。
@@ -37,7 +37,9 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| —— | 更多账号见主站 | —— | —— |
+| 美国区 🇺🇸 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
+| 香港区 🇭🇰 | `jcc••••••••@icloud.com` | `••••••••` | 偶尔繁忙 |
+| 日本区 🇯🇵 | `jcc••••••••@icloud.com` | `••••••••` | 可用 |
 
 ## 💡 下载好客户端,还差一个稳定机场
 
@@ -52,12 +54,14 @@
 
 👉 **[前往星岛梦官网(优惠码 nmw888)](https://www.jichangcha.com/go/xingdaomeng/)** | [看完整测评](https://www.jichangcha.com/brands/xingdaomeng/)
 
+更多选择看 **[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian)**:老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格与优惠码每日同步。
+
 ## 🔗 更多内容
 
 - 🏠 [机场查主站](https://www.jichangcha.com/) —— 16 家机场横向对比 · 189 题长尾问题库 · 图文教程
 - 📱 [每日共享 Apple ID(完整账号)](https://www.jichangcha.com/share-id/)
 - 🆓 [每日免费节点](https://www.jichangcha.com/free-node/) —— 每天自动更新的免费订阅
-- 🏆 [2026 机场推荐排行榜](https://github.com/jichangx/2026-jichangcha-tuijian) —— 全部机场总榜
+- 🏆 [2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) —— 老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格、优惠码与站长实测记录,每日同步
 - 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明
