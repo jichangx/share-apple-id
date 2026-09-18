@@ -128,7 +128,7 @@ ${poolRows || '| —— | 更多账号见主站 | —— | —— |'}
 - 📱 [每日共享 Apple ID(完整账号)](${SHARE_PAGE})
 - 🆓 [每日免费节点](${SITE}/free-nodes/) —— 每天自动更新的免费订阅
 - 🏆 [2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) —— 老牌 / 性价比 / 稳定 / 高端四类整理,套餐价格、优惠码与站长实测记录,每日同步
-- 🗂️ [四站精品聚合](https://github.com/jichangx) —— 机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普一页看全
+- 🗂️ [机场查精品聚合](https://github.com/jichangx) —— 机场推荐 / 免费节点 / 共享 Apple ID / 跑路预警 / 客户端教程 / 翻墙科普一页看全
 - 💬 Telegram:[@wanzuanjiedian](https://t.me/wanzuanjiedian)
 
 ## 📌 声明
