@@ -1,8 +1,8 @@
 # 每日共享 Apple ID · 免费外区(美区)苹果 ID(每天 0:00 自动更新)｜机场中文网
 
-![更新日期](https://img.shields.io/badge/更新-2026-09-19-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-30%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-560%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcnweb.com-00e676)](https://jichangcnweb.com/apple-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新日期](https://img.shields.io/badge/更新-2026-09-20-fbbf24) ![账号数](https://img.shields.io/badge/今日共享账号-30%20%E4%B8%AA-f59e0b) ![稳定运行](https://img.shields.io/badge/%E5%B7%B2%E7%A8%B3%E5%AE%9A%E8%BF%90%E8%A1%8C-561%20%E5%A4%A9-fbbf24) [![主站](https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%B4%A6%E5%8F%B7-jichangcnweb.com-00e676)](https://jichangcnweb.com/apple-id/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
-> 🍎 **2026-09-19 已更新 · 今日 30 个共享账号 · 已稳定运行 560 天**
+> 🍎 **2026-09-20 已更新 · 今日 30 个共享账号 · 已稳定运行 561 天**
 > 用于在被锁区(如中国区)App Store **免费下载小火箭 Shadowrocket、Quantumult X** 等被下架应用。
 > 📣 账号池更新提醒,TG 频道每早 8 点自动推送:**[@jichangcha](https://t.me/jichangcha)**
 
@@ -18,7 +18,7 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
-| 美区 🇺🇸 | `jy3••••••••@163.com` | `••••••••` | 可用 |
+| 美区 🇺🇸 | `quo••••••••@gmail.com` | `••••••••` | 可用 |
 
 > 🔑 **完整账号密码在主站获取**(本仓库仅作防丢备用入口,不公开明文账号,避免被爬虫滥用、加速封号):
 > 👉 **[https://jichangcnweb.com/apple-id/](https://jichangcnweb.com/apple-id/)** —— 打开页面即可复制当日可用账号密码。
@@ -37,17 +37,17 @@
 
 | 地区 | 账号 | 密码 | 状态 |
 | ---- | ---- | ---- | ---- |
+| 美区 🇺🇸 | `dav••••••••@hotmail.com` | `••••••••` | 可用 |
+| 美区 🇺🇸 | `Deb••••••••@icloud.com` | `••••••••` | 可用 |
+| 美区 🇺🇸 | `jar••••••••@gmail.com` | `••••••••` | 可用 |
+| 美区 🇺🇸 | `jy3••••••••@163.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `kwo••••••••@163.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `jyv••••••••@163.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `Kev••••••••@icloud.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `row••••••••@icloud.com` | `••••••••` | 可用 |
-| 美区 🇺🇸 | `139••••••••@163.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `Mir••••••••@icloud.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `bra••••••••@gmail.com` | `••••••••` | 可用 |
 | 美区 🇺🇸 | `orp••••••••@outlook.com` | `••••••••` | 可用 |
-| 美区 🇺🇸 | `lam••••••••@gmail.com` | `••••••••` | 可用 |
-| 美区 🇺🇸 | `Per••••••••@gmail.com` | `••••••••` | 可用 |
-| 美区 🇺🇸 | `pam••••••••@outlook.com` | `••••••••` | 可用 |
 
 ## 💡 下载好客户端,还差一个稳定机场
 
